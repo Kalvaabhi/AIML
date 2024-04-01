@@ -4,5 +4,5 @@
 3.[lab3](https://github.com/Kalvaabhi/editreadme/blob/main/Assignment3.ipynb)
 4.[lab4](https://github.com/Kalvaabhi/editreadme/blob/main/Assignment04.ipynb)
 5.[lab5](https://github.com/Kalvaabhi/editreadme/blob/main/Assignment5.ipynb)
-6.[lab6]( )
+6.[lab6]( https://github.com/Kalvaabhi/editreadme/blob/main/Assignment6.ipynb)
 7.[lab7]( )
