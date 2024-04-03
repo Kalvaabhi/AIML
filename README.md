@@ -8,4 +8,4 @@
 7.[lab7](https://github.com/Kalvaabhi/editreadme/blob/main/assignment7.ipynb)
 8.[lab8](https://github.com/Kalvaabhi/editreadme/blob/main/assignment8.ipynb)
 9.[lab9](https://github.com/Kalvaabhi/editreadme/blob/main/assignment9.ipynb)
-10.[lab10]( )
+10.[lab10](https://github.com/Kalvaabhi/editreadme/blob/main/Assignment10.ipynb)
